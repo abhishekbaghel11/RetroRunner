@@ -43,3 +43,7 @@ pip3 install neat-python
 ![Img1](https://drive.google.com/uc?export=view&id=1Mq8CU7_Fm5XAG4g63e1ggKLJUKSHwNVv)
 ![Img2](https://drive.google.com/uc?export=view&id=14XjhA_yQFW4h3vQTAX6pVGsmfBzWDkm0)
 ![img3](https://drive.google.com/uc?export=view&id=1ODPlexwA5RApS5i3jGjE83jNP9yDe6lF)
+
+# Resources:
+- Tilesets :- https://craftpix.net/freebies/free-industrial-zone-tileset-pixel-art/?num=1&count=14&sq=industrial%20zone&pos=13
+- Character Sprite :- https://craftpix.net/freebies/free-3-cyberpunk-characters-pixel-art/
