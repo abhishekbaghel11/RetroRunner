@@ -23,6 +23,13 @@ pip install neat-python
 pip3 install neat-python
 ```
 
+- Also, extract the graphics.zip file in that folder before running any file.
+
+# Running the file
+
+- Open the code folder and then run the main.py file , in order to play the game
+- If you want to see the AI playing the game, open the neat-code folder and then run the main.py(but for now, it is just training --> since, we didn't get enough time to fully train it)
+
 # Dependencies:
 
 - Pygame
