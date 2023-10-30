@@ -84,7 +84,7 @@ class Game:
         else:
             self.fitness -= 500/(distance+1)
 
-        if abs(player_initial_pos_x - self.level.player.sprite.rect.x) <= 50:
+        if abs(player_initial_pos_x - self.level.player.sprite.rect.x) <= 1:
             self.count += 1
         else:
             self.count = 0
